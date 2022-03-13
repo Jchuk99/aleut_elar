@@ -1,0 +1,72 @@
+
+corpus -> tokenization -> POS-TAGGER
+
+ALEUT GRAMMAR:
+https://library.alaska.gov/hist/hist_docs/docs/anlm/02057447.pdf
+https://uafanlc.alaska.edu/Online/AL950B1994a/bergsland-1994-aleut_dictionary-smaller.pdf
+
+MANAGING LINGUISTIC DATA: https://www.nltk.org/book/ch11.html#chap-data
+POS TAGGER TOOLKIT: https://www.nltk.org/book/ch05.html
+
+
+
+GRAMMAR RULES (can use reg expressions to codify these):
+
+generally nouns and verbs in Unangam Tunuu consist of the ROOT (primary meaning of the word), along with
+a INFLECTIONAL SUFFIX (indicates grammatical information)
+
+GRAMMAR 1: Nouns
+1.The —x̂‚ ending on Unangan nouns
+	- ayagax̂ - ‘woman’
+2. The —ng ending on Unangan nouns (first person possesive)
+	- braatang  – ‘my brother’
+3. The diminutive suffix —ada- on nouns (can be used in verbs and nouns, can't use it as an identifier)
+4. The -qing ending on Unanagan nouns (first person singular)
+5. The -x̂‚txin ending on Unanagan nouns (2nd person singular)
+
+'this' shows up as way(a) or inga(ya) when used as noun:
+'this' shows up as wan or ingan when modifying a noun: 
+
+Grammar 2: Question words (kiin - who, alqutax^ - what)
+	- Kiin txin? – ‘Who are you?’
+	- Kiin way(a)? Kiin ingay(a)?- ‘Who is this?’
+	
+Grammar 3: Verbs
+1. ---lix, conjuctive verb mood
+2. ---ku- followed by person endings such as --x^, indicative verb mood
+3. ---da, imperative verb mood, used for commands
+
+
+
+Aleut word classes. See General
+Introduction 0.4.
+n. noun
+v. verb
+abs. noun in the singular absolutive case
+rel. relative case
+sg. singular
+du. dual
+pl. plural
+1., 2., 3. first person, second person, third person
+3R reflexive third person
+conj. conjunctive verbal mood
+vL. intransitive verb
+vt. transitive verb
+vr. reflexive verb
+vrt. reflexive-transitive verb
+up. passive verb
+vrp. reflexive-passive verb
+aux.v. auxiliary verb
+vn. verbal noun
+vin. intransitive verbal noun
+vtn. transitive verbal noun
+pp. past participle
+pos.n. positional noun
+loc. locative case
+abl. ablative case
+rel. n. relational noun
+qual. qualifier
+quant. quantifier
+num. numeral
+deict. deictic form of demonstrative
+adv. adverb
